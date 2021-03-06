@@ -9,8 +9,8 @@ protocols = {}
 tls_version = {}
 
 API_URL = "https://censys.io/api/v1/search/ipv4"
-UID = "1596e19b-8d96-434d-9ab6-bb2b5bf8bd0d"
-SECRET = "aIOzNTjFTRuDvVMupul2btCRxlJrx4fI"
+UID = "" #Get from Censys API
+SECRET = "" #Get from Censys API
 
 
 #Webserver, Protocols and Operating system - Run the program again for 152.7.0.0/16
