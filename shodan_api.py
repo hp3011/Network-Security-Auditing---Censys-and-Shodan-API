@@ -1,7 +1,7 @@
 from shodan import Shodan
 import json
 
-api = Shodan('5mgBBI2nLPHq07vTdEh5YGgio8mKTgNW')
+api = Shodan('key') #Get key from shodan API
 
 # Lookup an IP
 verified_cve = {}
